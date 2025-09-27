@@ -14,4 +14,3 @@ Built with pure HTML, CSS, and JavaScript (no external frameworks)
 This project highlights core web development concepts and focuses on creating a smooth, engaging user experience.
 
 
-
